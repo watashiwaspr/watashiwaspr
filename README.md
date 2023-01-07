@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/yi%C4%9Fit-duman-679262223/" target="blank"><img align="center" src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8" alt="" height="30" width="40" /></a>
 <a href="https://tryhackme.com/p/m0ritZ" target="blank"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="" height="30" width="40" /></a>
 </p>
-![](https://komarev.com/ghpvc/?usernam=watashiwaspr&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=watashiwaspr&color=blueviolet)
 
 # # whoami
   
