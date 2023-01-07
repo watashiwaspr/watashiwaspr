@@ -1,3 +1,1 @@
-# sample-collab
-
 # hello
