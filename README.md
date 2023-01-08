@@ -1,6 +1,6 @@
-
+ 
 ![download](https://user-images.githubusercontent.com/82729808/211146320-de4d6641-5405-453f-8a92-cc4395221b3a.png)
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social :</h3>
 <p align="left">
 <p align="center">
 <a href="https://www.twitter.com/watashiwaspr/" target="blank"><img align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-svg.168b89da.svg" alt="" height="30" width="40" /></a>
