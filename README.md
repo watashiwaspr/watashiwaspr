@@ -3,9 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <p align="center">
-  <a href="http://twitter.com/watashiwaspr">
-    <img src="https://img.shields.io/twitter/follow/watashiwaspr?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
+<a href="https://www.twitter.com/watashiwaspr/" target="blank"><img align="center" src="https://abs.twimg.com/responsive-web/client-web/icon-svg.168b89da.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yi%C4%9Fit-duman-679262223/" target="blank"><img align="center" src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8" alt="" height="30" width="40" /></a>
 <a href="https://tryhackme.com/p/m0ritZ" target="blank"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="" height="30" width="40" /></a>
 </p>
