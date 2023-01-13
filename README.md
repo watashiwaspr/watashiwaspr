@@ -1,5 +1,6 @@
- 
-![download](https://user-images.githubusercontent.com/82729808/211146320-de4d6641-5405-453f-8a92-cc4395221b3a.png)
+
+![banner](https://user-images.githubusercontent.com/82729808/212359698-aa6e91f8-9623-484e-bcd4-acddbf350687.png) 
+
 <h3 align="left">Social :</h3>
 <p align="left">
 <p align="center">
@@ -17,6 +18,3 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=watashiwaspr&include_all_commits=true&count_private=true&show_icons=true&theme=codeSTACKr"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watashiwaspr&layout=compact&hide=html&theme=codeSTACKr" alt="watashiwaspr"/>
 </p>
-
-
-![banner](https://user-images.githubusercontent.com/82729808/212359698-aa6e91f8-9623-484e-bcd4-acddbf350687.png)
