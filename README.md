@@ -20,13 +20,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-![banner](https://user-images.githubusercontent.com/82729808/211146374-4411065a-8b89-4211-bd2c-882fc81674e6.png)
+![banner](https://user-images.githubusercontent.com/82729808/212354391-a022b772-7dff-49cc-86a9-a617f38d015a.png)
